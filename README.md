@@ -32,11 +32,14 @@ Before you begin, ensure that the following software is installed on your system
      ```bash
      npm install
      ```
+5. **Run the Project**
 
-6. **Run Project**
-
-   - To start the Project:
+   - After setting up everything, you can start the development server using:
      ```bash
      npm run dev
      ```
+
+---
+
+This will start the project in development mode.
 
