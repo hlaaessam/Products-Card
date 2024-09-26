@@ -45,7 +45,18 @@ This card system is designed to be intuitive, providing real-time feedback with 
 
 
 <hr font-size=1>
-<br>
+
+
+### Technologies
+- Html
+- CSS
+- JavaScript
+
+
+### Platform and Libraries
+- React
+- Tailwind
+
 
 
 ## Project Setup Instructions
