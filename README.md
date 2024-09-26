@@ -44,10 +44,11 @@ The **Projects Card** feature allows users to manage products within the applica
 This card system is designed to be intuitive, providing real-time feedback with easy controls for managing products and prices.
 
 
-<hr>
+
+<br>
 
 
-# Project Setup Instructions
+## Project Setup Instructions
 
 Follow these steps to get the project running on your local machine.
 
