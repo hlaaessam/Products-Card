@@ -31,21 +31,9 @@ The **Projects Card** feature allows users to manage products within the applica
    - The **Total Price** section calculates and displays the total cost of all products in the card. It updates dynamically as products are added, decremented, or removed.
    - This gives users a real-time view of the cumulative price of their selections.
 
----
-
-### Example Usage:
-
-- **Add Product**: Click the **+** button to add products, and the total price will reflect the update.
-- **Decrement Product**: Use the **-** button to decrease the product count. The product is removed if the count reaches zero.
-- **Reset All Products**: Reset the card to an empty state by clicking the **Reset** button.
-- **Delete All Products**: Click **Delete All** to clear the card completely.
-- **Change Mood**: Switch between light and dark themes using the **Change Mood** option for a better visual experience.
 
 This card system is designed to be intuitive, providing real-time feedback with easy controls for managing products and prices.
-
-
-<hr font-size=1>
-
+---
 
 ### Technologies
 - Html
@@ -56,6 +44,10 @@ This card system is designed to be intuitive, providing real-time feedback with 
 ### Platform and Libraries
 - React
 - Tailwind
+
+<hr font-size=1>
+
+
 
 
 
