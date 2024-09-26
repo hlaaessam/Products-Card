@@ -44,8 +44,7 @@ The **Projects Card** feature allows users to manage products within the applica
 This card system is designed to be intuitive, providing real-time feedback with easy controls for managing products and prices.
 
 
-_______________________________________________________________________________________________________________________________________________________________________________________________________________
-
+<hr font-size=1>
 <br>
 
 
