@@ -1,3 +1,50 @@
+## Projects Card Overview
+
+The **Projects Card** feature allows users to manage products within the application efficiently. Below is an explanation of the various functionalities included in the Projects Card.
+
+### Features
+
+1. **Add Product**
+   - Users can add a product to the card by clicking the **+** button. Each click increases the product's quantity.
+   - The card dynamically updates the **total price** based on the number of products added.
+
+2. **Decrement Product**
+   - Users can reduce the quantity of a product by clicking the **-** button. This decreases the count of that product.
+   - If the quantity reaches zero, the product is removed from the card, and the **total price** is updated.
+
+3. **Reset All Products**
+   - The **Reset** button allows users to clear all products from the card and reset the **total price** to zero. 
+   - This is useful for starting fresh or emptying the card quickly.
+
+4. **Delete All Products**
+   - The **Delete** button removes all products from the card at once. The card is cleared, and the **total price** is reset to zero.
+
+5. **Change Mood**
+   - The **Change Mood** feature allows users to toggle between different visual themes (e.g., light mode and dark mode). 
+   - This enhances user experience by adjusting the appearance according to their preferences.
+
+6. **Card Holder**
+   - The **Card Holder** section displays all selected products, including their quantity and individual price. 
+   - It provides an organized summary of everything currently added to the card.
+
+7. **Total Price**
+   - The **Total Price** section calculates and displays the total cost of all products in the card. It updates dynamically as products are added, decremented, or removed.
+   - This gives users a real-time view of the cumulative price of their selections.
+
+---
+
+### Example Usage:
+
+- **Add Product**: Click the **+** button to add products, and the total price will reflect the update.
+- **Decrement Product**: Use the **-** button to decrease the product count. The product is removed if the count reaches zero.
+- **Reset All Products**: Reset the card to an empty state by clicking the **Reset** button.
+- **Delete All Products**: Click **Delete All** to clear the card completely.
+- **Change Mood**: Switch between light and dark themes using the **Change Mood** option for a better visual experience.
+
+This card system is designed to be intuitive, providing real-time feedback with easy controls for managing products and prices.
+
+<br>
+
 # Project Setup Instructions
 
 Follow these steps to get the project running on your local machine.
