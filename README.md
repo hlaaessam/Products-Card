@@ -1,4 +1,4 @@
-## [Projects Card Overview](https://hlaaessam.github.io/Products-Card/)
+## [Projects Card Overview]
 
 The **Projects Card** feature allows users to manage products within the application efficiently. Below is an explanation of the various functionalities included in the Projects Card.
 
